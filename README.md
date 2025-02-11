@@ -27,4 +27,4 @@ The Objective of this Project is to extract textual data articles from the given
 - WORD COUNT
 - SYLLABLE PER WORD
 - AVG WORD LENGTH
-Environment: Python, MS Excel, NLTK libraries
+#### Environment: Python, MS Excel, NLTK libraries
